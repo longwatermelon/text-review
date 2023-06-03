@@ -34,7 +34,7 @@ def review(review_as, messages):
                 0: "okay",
                 1: "good",
                 2: "excellent",
-                3: "brilliant",
+                3: "excellent",
                 4: "brilliant",
                 5: "brilliant"
             }
